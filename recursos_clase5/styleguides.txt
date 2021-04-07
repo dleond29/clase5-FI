@@ -1,0 +1,23 @@
+Título principal
+----------------
+Color: #000000
+Tipografía: Arial
+Fondo: Amarillo Lemon Pie
+
+
+Subtítulos
+----------------
+Color: #000000
+Tipografía: Times New Roman (en ítalicas o cursivas)
+Fondo: #EAEAEA
+
+
+Textos generales
+----------------
+Color: #444444
+Tipografía: Arial
+
+
+Colores extra
+----------------
+Amarillo Lemon Pie: #FEF400
