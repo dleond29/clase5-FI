@@ -1,0 +1,40 @@
+body {
+  font-family: Calibri, Helvetica, sans-serif;
+
+}
+
+main {
+  margin-left: 320px;
+  margin-right: 320px;
+}
+
+header {
+  background-color: rgb(55, 111, 156);
+  line-height: 2;
+  text-align: center;
+}
+
+.item-detail {
+  font-weight: bold;
+  font-style: italic;
+}
+
+h1,
+h2 {
+  display: flex;
+  justify-content:center;
+  background-color: lightblue;
+  letter-spacing: 0.5em;
+}
+
+footer {
+  background-color: rgb(79, 111, 170);
+  color: ivory;
+  font-size: 24px;
+  text-align: center;
+}
+
+.img-link {
+  width: 20px;
+  height: 20px;
+}
